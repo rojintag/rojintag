@@ -1,6 +1,6 @@
-<p style={text-align:center;}> Hi there  I'm Rojin👋 </p>
+<p style={text-align:center; font-size: 3rem;}> Hi there  I'm Rojin👋 </p>
 
-<image src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" />
+<img src="https://giphy.com/embed/2IudUHdI075HL02Pkk" alt="Computer man" style="width:100px;height:100px;">
 
 
 💫About Me:

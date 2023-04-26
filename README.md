@@ -1,6 +1,8 @@
-<p style={text-align:center; font-size: 3rem;}> Hi there  I'm Rojin👋 </p>
+<div style={display: flex; flex-direction: column; align-items: center; justify-content: center;}>
+Hi there  I'm Rojin👋
 
   <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="100"/>
+  </div>
 
 💫About Me:
 ---

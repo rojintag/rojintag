@@ -2,15 +2,19 @@
 <div id="header" align="center">
   <img src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="100"/>
 </div>
----
+
 💫About Me:
+---
+<div style={display: flex, flex-direction: column}>
 - 🖥️ I'm a fullstack developer
 - 🌱 I’m currently learning Redux
 - 🎓 I studied at Langara College
+</div>
 
 
-----
+
 🌐: Socials:
+----
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/rojin-taghadosi/">
@@ -18,8 +22,9 @@
   </a>
 </div>
 
----
 💻 Tech Stack:
+---
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -38,11 +43,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
 :octocat:	 My Stats :
+---
+<div>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rojintag&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojintag&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 
 <!--
 **rojintag/rojintag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

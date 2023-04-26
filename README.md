@@ -1,6 +1,6 @@
-                                                                           Hi there  I'm Rojin👋
+<p style={text-align=center}> Hi there  I'm Rojin👋 </p>
 
-<iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<image src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" />
 
 
 💫About Me:

@@ -64,7 +64,7 @@ Management & Design
 💹 My Stats :
 ---
 
-[![Rojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rojintag)](https://github.com/rojintag/github-readme-stats)
+[![Rojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rojintag&theme=dark&background=000000)](https://github.com/rojintag/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rojintag&theme=dark&background=000000)](https://git.io/streak-stats)
 

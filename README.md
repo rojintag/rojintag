@@ -1,4 +1,4 @@
-<div align="center" size="3rem">
+<div align="center">
   
  Hi there  I'm Rojin👋
 
@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/rojin-taghadosi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="rojintg@gmail.com">
+  <a href="mailto:rojintg@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
